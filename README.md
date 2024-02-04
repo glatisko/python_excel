@@ -15,4 +15,7 @@ Ctrl+Shift+P -> Python 3.12.1 venv .venv
 # RUNNING IPYNB in VENV
 let VS install ipykernel package
 
+# Install modules
+pip install seaborn
+
 
