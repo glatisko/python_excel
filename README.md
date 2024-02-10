@@ -1,6 +1,9 @@
 "# python_excel" 
 
 # https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?autoSkip=true&resume=false&u=95233017
+# https://www.linkedin.com/learning/pandas-analytics-for-excel-users/python-and-excel-for-analytics?u=95233017
+
+# GEORGE MOUNT
 
 # Create virtual environment
 python3 -m venv .venv
