@@ -1,24 +1,26 @@
-"# python_excel" 
 
-# https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?autoSkip=true&resume=false&u=95233017
-# https://www.linkedin.com/learning/pandas-analytics-for-excel-users/python-and-excel-for-analytics?u=95233017
 
-# GEORGE MOUNT
+# Using Python with Excel
+## GEORGE MOUNT
+## https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?autoSkip=true&resume=false&u=95233017
 
-# Create virtual environment
-python3 -m venv .venv
+# Setup
+## Create virtual environment
+python3 -m venv .venv  
 
-# Restart terminal with activated Virtual Environment
-(.venv) PS C:\SOURCE\python> OR cd .venv/Scripts activate / deactivate
+## Activate Virtual Environment
+cd .venv/Scripts activate 
+should show (.venv) PS C:\SOURCE\python\python_excel\.venv\Scripts>   
 
-# Check you select correct interpreter:
+
+## Check you select correct interpreter:
 Ctrl+Shift+P -> Python 3.12.1 venv .venv
 
 
-# RUNNING IPYNB in VENV
-let VS install ipykernel package
+## RUNNING IPYNB in VENV
+install in VS  package ipykernel 
 
-# Install modules
+## Install modules
 pip install seaborn
 
 
