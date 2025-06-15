@@ -5,13 +5,13 @@
 ## https://www.linkedin.com/learning/using-python-with-excel-22676328/loading-and-saving-data-with-pandas?autoSkip=true&resume=false&u=95233017
 
 
-# Installing Jypiter Notebook on your laptop
+## Installing Jypiter Notebook on your laptop
 pip install notebook  
 jupyter notebook  
 Open browser in: http://localhost:8888/tree  
 
 
-# !!!OPTIONAL Setup Of VENV
+## (OPTIONAL) Setup Of VENV
 ## Create virtual environment
 python3 -m venv .venv  
 
